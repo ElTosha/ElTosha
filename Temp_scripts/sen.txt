@@ -1,0 +1,43 @@
+784386635	 	contact: 	28:EF:51:CC:4E:20:01:3A 	 
+
+784413993	 	cycle
+
+784442835	 	contact: 	28:3F:AC:1E:4F:20:01:19 	 
+
+784452166	 	cycle
+
+784463532	 	starting conversion: all sensors
+
+785262640	 	28:3D:A9:CE:4E:20:01:0F 	26.625
+
+785296138	 	28:EF:51:CC:4E:20:01:3A 	26.75
+
+785329612	 	28:3F:AC:1E:4F:20:01:19 	26.0625
+
+785410937	 	No connection to collector
+
+844237056	 	cycle
+
+844266408	 	contact: 	28:3D:A9:CE:4E:20:01:0F 	 
+
+844347073	 	No data sent
+
+844356730	 	cycle
+
+844386021	 	contact: 	28:EF:51:CC:4E:20:01:3A 	 
+
+844413564	 	cycle
+
+844442528	 	contact: 	28:3F:AC:1E:4F:20:01:19 	 
+
+844450600	 	cycle
+
+844462727	 	starting conversion: all sensors
+
+845262314	 	28:3D:A9:CE:4E:20:01:0F 	26.625
+
+845295848	 	28:EF:51:CC:4E:20:01:3A 	26.75
+
+845329330	 	28:3F:AC:1E:4F:20:01:19 	26.125
+
+845483281	 	No connection to collector
